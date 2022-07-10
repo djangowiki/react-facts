@@ -1,0 +1,8 @@
+.nav-container {
+    background-color: #21222A;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 91px;
+    padding: 30px 25px;
+}

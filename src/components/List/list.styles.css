@@ -1,0 +1,14 @@
+.list-container {
+    margin-left: 40px;
+    color: #fff;
+    padding: 10px;
+}
+
+.list-container>li {
+    padding: 8px;
+}
+
+.list-container>li::marker {
+    font-size: 1.6rem;
+    color: #61DAFB;
+}
